@@ -36,7 +36,7 @@ Soy una desarrolladora web apasionada por crear soluciones innovadoras y atracti
 - **Inteligencia Artificial**: Explorando el futuro de la tecnología.
 
 ## 🌐 Encuéntrame en:
-- [LinkedIn](www.linkedin.com/in/liseth-castellanos) 💼
+- [LinkedIn](https://www.linkedin.com/in/liseth-castellanos/) 💼
 - Email: castellanos.anggie17@gmail.com 📫
 
 ---
