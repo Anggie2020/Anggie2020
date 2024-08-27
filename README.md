@@ -1,110 +1,42 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Anggie Castellanos!
 
-<!--
-**Anggie2020/Anggie2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una desarrolladora web apasionada por crear soluciones innovadoras y atractivas. Siempre estoy buscando aprender y mejorar mis habilidades, y actualmente estoy profundizando en áreas emergentes como la Inteligencia Artificial y el Análisis de Datos. ¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- **HTML5** 🌐
+- **CSS3** 🎨
+- **JavaScript** ✨
+- **Vue 3** 🖼️
+- **Bootstrap** 👢
+- **Tailwind CSS** 🌬️
 
-### Hi there, I'm Anggie Liseth Castellanos👋
+### Backend
+- **Node.js** 🌲
+- **Express** 🚂
+- **PHP** 🐘
+- **Python** 🐍
 
-<div class="header-content">
-  
-  <div class="text-content">
-    <h4>
-<!--         System Engineer graduated from
-        Unidades Tecnologicas de Santander, Colombia.
-        I've acquired 3 years of experience in software
-        development. I have built web applications from scratch
-        for different scopes. As a Software engineer specialized
-        in web applications I have worked in collaborative
-        development teams. I stand out for being
-        responsible, creative and proactive,
-        capable of taking on challenges with
-        enthusiasm. Skills in interpersonal
-        relationships, working under pressure,
-        problem solving and effective decision
-        making. -->
-    </h4>
-  </div>
-  
-  🔭 Experience working on the following languages:
-  <ul>  
-     <li>JavaScript</li>
-     <li>Python</li>
-  </ul>
-      <br>
-  🔭 Experience working on the following Frameworks:
-  <ul>
-       <li>Laravel Blade</li>
-       <li>NodeJs</li>
-       <li>VueJS</li>
-       <li>ExpressJs</li>
-  </ul>
+### Bases de Datos
+- **MySQL** 🗄️
 
-  🔭 Experience working with:
-  <ul>
-       <li>API</li>
-       <li>API REST</li>
-       <li>API REST FULL</li>
-  </ul>
+## 💼 Stack de Desarrollo
+| Herramienta            | Descripción                                        |
+|------------------------|----------------------------------------------------|
+| **Visual Studio Code** | Mi editor de código preferido 🛠️                   |
+| **Figma**              | Para diseño de interfaces y prototipos 🎨           |
+| **UML**                | Modelado de sistemas 📊                            |
+| **GitHub**             | Control de versiones y colaboración en proyectos 🧑‍💻 |
+| **Metodología Scrum**  | Gestión ágil de proyectos utilizando Jira 🏃‍♂️      |
 
-  🔭 Experience working with SCRUM development process using:
-  <ul>
-       <li>Jira Software</li>  
-  </ul>
-  
-  🔭 Experience carrying out Software Design Patterns:
-  <ul>
-       <li>Creational: <br>SINGLETON & BUILDER</br></li>
-  </ul>
-  
-  🔭 Experience deploying web application in:
-  <ul>
-       <li>Railway</li>
-       <li>Netlify</li>
-  </ul>
+## 🎓 Actualmente Estudiando
+- **UX/UI**: Mejora de la experiencia y la interfaz de usuario.
+- **Análisis de Datos**: Extracción de información valiosa a partir de datos.
+- **Inteligencia Artificial**: Explorando el futuro de la tecnología.
 
-  🔭 Experience working on the following Database Management:
-  <ul>
-       <li>MYSQL</li>
-       <li>POSTGRESQL</li>
-       <li>MongoDB</li>
-  </ul>
+## 🌐 Encuéntrame en:
+- [LinkedIn](https://www.linkedin.com/in/liseth-c-4157731aa/) 💼
+- Email: castellanos.anggie17@gmail.com 📫
 
-🔭 As part of development process I've acquired Database Modeling knowledgement
-   using different tools as support.
-  <ul>
-       <li>StarUML</li>
-  </ul>
-
-  🔭 Experience creating UML diagrams for app documentation
-  <ul>
-       <li>Use case diagrams</li>
-       <li>Class diagrams</li>
-       <li>Deployment diagrams</li>
-       <li>Communication diagrams</li>
-       <li>Sequence diagrams</li>
-  </ul>
-  <br>
-    ✨ Current english level: A2
-  </br>
-
-  🌱 I’m learning: <b> Data Analytics </b> <br><br>
-  📫 How to reach me: 
-    <ul>
-       <li> <b>Email: </b> castellanos.anggie17@gmail.com </li>
-       <li> <b>Cellphone: </b> +57 3118245945 </li>
-       <li> <b> Linkding: </b> https://www.linkedin.com/in/liseth-c-4157731aa/ </li>
-  </ul>
-  
-</div>
+---
